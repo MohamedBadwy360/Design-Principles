@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_FavorCompositionOverInhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_TightlyVsLooselyCoupled", "03_TightlyVsLooselyCoupled\03_TightlyVsLooselyCoupled.csproj", "{078B14CE-0886-4EE8-B036-635B79DC838F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SingleResponsibilityPrinciple", "04_SingleResponsibilityPrinciple\04_SingleResponsibilityPrinciple.csproj", "{B6A465FE-136C-41C0-A2D9-E8A6BF0EB729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{078B14CE-0886-4EE8-B036-635B79DC838F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078B14CE-0886-4EE8-B036-635B79DC838F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078B14CE-0886-4EE8-B036-635B79DC838F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A465FE-136C-41C0-A2D9-E8A6BF0EB729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A465FE-136C-41C0-A2D9-E8A6BF0EB729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A465FE-136C-41C0-A2D9-E8A6BF0EB729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A465FE-136C-41C0-A2D9-E8A6BF0EB729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
